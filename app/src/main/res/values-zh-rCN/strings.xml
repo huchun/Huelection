@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我的电子</string>
+    <string name="title_home">圈友</string>
+    <string name="title_fridend">朋友</string>
+    <string name="title_me">我</string>
+
+    <string name="title_quanbu">全部</string>
+    <string name="title_search">搜索</string>
+
+    <string name="listview_header_hint_normal">下拉刷新</string>
+    <string name="listview_header_hint_update">上次更新时间:</string>
+
+    <string name="listview_footer_hint_normal">上拉加载更多</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Huelection</string>
+    <string name="title_home">Home</string>
+    <string name="title_fridend">Dashboard</string>
+    <string name="title_me">Notifications</string>
+
+    <string name="title_quanbu">quanbu</string>
+    <string name="title_search">search</string>
+
+    <string name="listview_header_hint_normal">normal_refresh</string>
+    <string name="listview_header_hint_update">update_time:</string>
+
+    <string name="listview_footer_hint_normal">normal_more</string>
+
+</resources>
